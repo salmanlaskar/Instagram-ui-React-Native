@@ -1,5 +1,5 @@
 import * as firebase from 'firebase'
-import Firebase from './../Firebase/config'
+import Firebase from './../Firebase/config';
 export  function getPosts(){
     return Firebase
       .firestore()

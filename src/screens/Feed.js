@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import { Text,View, StyleSheet, FlatList,SafeAreaView,ActivityIndicator,Image, Button } from 'react-native'
+import { Text,View, StyleSheet, FlatList,ActivityIndicator,Image, Button } from 'react-native';
 import {getPosts} from './../api/GetFeedApi';
 
 class Feed extends Component {
