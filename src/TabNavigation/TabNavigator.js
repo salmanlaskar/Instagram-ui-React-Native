@@ -3,7 +3,7 @@ import { Text, View } from 'react-native';
 import { NavigationContainer } from '@react-navigation/native';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import AddPost from './../screens/AddPost';
-import Feed from './../screens/Feed'
+import Feed from './../screens/Feed';
 
 const Tab = createBottomTabNavigator();
 

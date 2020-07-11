@@ -7,7 +7,7 @@ export function uploadPost(post){
     postTitle: post.title,
     createdAt: firebase.firestore.FieldValue.serverTimestamp()
   }
-  //console.log('val');;
+  //console.log('val');
   Firebase.firestore()
   .collection('posts')
   .add(uploadData)
