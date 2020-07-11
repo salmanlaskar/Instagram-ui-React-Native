@@ -1,0 +1,12 @@
+{
+  "name": "InstaFeed",
+  "displayName": "InstaFeed",
+  "expo": {
+    "name": "InstaFeed",
+    "slug": "InstaFeed",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
