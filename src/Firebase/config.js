@@ -1,5 +1,5 @@
-import * as firebase from 'firebase'
-import '@firebase/firestore'
+import * as firebase from 'firebase';
+import '@firebase/firestore';
 const firebaseConfig = {
     apiKey: "AIzaSyC35yeeZ9gwsQ_7pXrC8lgbs2OGDUuxkYo",
     authDomain: "instafeed-610cf.firebaseapp.com",
